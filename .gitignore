@@ -1,6 +1,4 @@
 node_modules/
 .idea/
 *.iml
-resources
-themes/ananke
-themes/hugo-notepadium
+resources/
